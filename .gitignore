@@ -1,0 +1,9 @@
+build/
+.cache/
+/vector_add
+*.o
+*.so
+__pycache__/
+.pytest_cache/
+*.nsys-rep
+*.sqlite
